@@ -1,0 +1,10 @@
+Balto;4;true
+Tobi;1;false
+Koli;1;false
+Rodi;1;false
+NULL
+Michi;2;true
+Mario;2;true
+Jose;2;true
+Lalo;2;true
+Lila;2;true
